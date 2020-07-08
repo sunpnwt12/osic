@@ -1,2 +1,2 @@
 # osic
-OSIC Pulmonary Fibrosis Progression
+This repo is for OSIC Pulmonary Fibrosis Progression in Kaggle
